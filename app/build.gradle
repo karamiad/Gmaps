@@ -7,8 +7,6 @@ android {
     signingConfigs {
         release {
             storeFile file('/home/adam/gmaps1/gmaps')
-            keyPassword '123456'
-            keyAlias 'gmaps'
         }
     }
     compileSdk 32
